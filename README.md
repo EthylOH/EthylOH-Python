@@ -1,1 +1,1 @@
-# C2H2OH-Python
+# EthylOH-Python
