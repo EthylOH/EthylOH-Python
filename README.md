@@ -12,7 +12,7 @@ Good luck and have fun!
 ---
 
 # Setup
-An **IDE** (Integrated Development Environment) is recommended for this course. This serves like a digital workbench for you.
+An **IDE** (Integrated Development Environment) is recommended for this course. This will be your digital workbench.
 
 * Install [PyCharm](https://www.jetbrains.com/pycharm/)
 
