@@ -20,3 +20,5 @@ An **IDE** (Integrated Development Environment) is recommended for this course. 
 ---
 
 # Course Roadmap
+
+* [Chapter 1: Terminal & `Print`](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-1/chapter-1.md)
