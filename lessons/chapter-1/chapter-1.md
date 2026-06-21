@@ -21,8 +21,8 @@ To make the computer display text on the screen, we use the `print` command, fol
 
 Your job is to use the `print()` function to make the computer say your name. 
 
-* [Chapter 1 Task](https://github.com/EthylOH/EthylOH-Python/edit/main/lessons/chapter-1/chapter-1.ipynb)
-  
+* [Chapter 1 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-1/chapter-1.ipynb)
+
 ### 4. Challenge
 
 You now know how to print one line of text. But what if you stack multiple `print()` commands on top of each other? Your challenge is to use multiple `print()` statements to draw a face, a sword, or an animal using only text characters (ASCII art).
