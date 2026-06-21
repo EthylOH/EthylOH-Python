@@ -21,7 +21,7 @@ To make the computer display text on the screen, we use the `print` command, fol
 
 Your job is to use the `print()` function to make the computer say your name. 
 
-* [Chapter 1 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-1/chapter-1.ipynb?v=2)
+* [Chapter 1 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-1/chapter-1.ipynb?v=3)
 
 ### 4. Challenge
 
