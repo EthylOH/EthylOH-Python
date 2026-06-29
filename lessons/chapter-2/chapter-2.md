@@ -28,7 +28,7 @@ This looks like a multi-line comment.
 I can write as many lines as I want here.
 Python will just ignore this block.
 """
-print("Running code!")
+print("hello world")
 ```
 
 ### 3. The Task
