@@ -21,4 +21,14 @@ An **IDE** (Integrated Development Environment) is recommended for this course. 
 
 # Course Roadmap
 
-* [Chapter 1: Terminal & `Print`](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-1/chapter-1.md)
+### Unit 1: Inputs & Outputs
+
+* [Chapter 1: Terminal & `print`](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-1/chapter-1.md)
+* [Chapter 2: Comments](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-2/chapter-2.md)
+* [Chapter 3: `input`](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-3/chapter-3.md)
+* [Chapter 4: Variables](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-4/chapter-4.md)
+* [Chapter 5: String Concatenation](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-5/chapter-5.md)
+
+### Unit 2: Math & Data Conversion
+
+*
