@@ -19,7 +19,7 @@ You create the variable name, then put an equals sign (`=`), and lastly the data
 **Example:** 
 `name = input("What is your name? ")`
 
-Now, the name is saved inside the `name`.
+Now, the name is saved inside the variable: `name`.
 
 Variables can hold different types of data:
 * **Strings** (Text): `color = "Blue"`
@@ -29,7 +29,7 @@ Variables can hold different types of data:
 
 ### 3. The Task
 
-Create a variable called `favorite_food` and use `input()` to ask the user what their favorite food is, saving their answer in the variable.
+Create a variable called `favorite_food` and use `input()` to ask the user what their favorite food is and save their answer in the variable.
 
 * [Chapter 4 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-4/chapter-4.ipynb)
 
