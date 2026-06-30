@@ -39,4 +39,4 @@ Use the `#` symbol to "comment out" the comments so the computer ignores them an
 
 ### 4. Challenge
 
-Combine what you know. Write `print()` statements to draw an ASCII art. Above some lines of code, write a `# comment` explaining exactly what that specific line is drawing.
+Combine what you know. Write `print()` statements to draw ASCII art. Above some lines of code, write a `# comment` explaining exactly what that specific line is drawing.
