@@ -25,4 +25,4 @@ Use the `print()` function to make the computer say your name.
 
 ### 4. Challenge
 
-You now know how to print one line of text. But what if you stack multiple `print()` commands on top of each other? Your challenge is to use multiple `print()` statements to draw a face, a sword, or an animal using only text characters (ASCII art).
+You now know how to print one line of text. But what if you stack multiple `print()` commands on top of each other? Your challenge is to draw only using text characters through multiple `print()` statements (ASCII art).
