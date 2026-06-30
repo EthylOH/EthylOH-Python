@@ -1,6 +1,6 @@
-# Chapter 5: Connecting Words (String Concatenation)
+# Chapter 5: Connecting Words
 
-You now know how to save information in a variable. But what if you want to use that variable for a different purpose than intended?
+You now know how to save information in a variable. But what if you want to combine that variable with other text?
 
 ### 1. The Problem
 
@@ -9,7 +9,7 @@ If you try to print words and a variable together like this:
 `name = "Ethyl-OH"`
 `print("Hello name")`
 
-The computer will print `"Hello name"` instead of `"Hello Ethyl-OH"`. It printed the exact letters you typed inside the quotes instead of a mix between the given string and variable. We need a way to mix regular text and variables together.
+The computer will print `"Hello name"` instead of `"Hello Ethyl-OH"`. It printed the exact letters you typed inside the quotes instead of a mix between the given string and the variable. We need a way to mix regular text and variables together.
 
 ### 2. The Tool
 
@@ -25,7 +25,7 @@ You just close your quotation marks, put a `+`, and then put your variable name.
 
 ### 3. The Task
 
-Create a variable called `food`, ask the user what their favorite food is, and then print a sentence that says: `"I like to eat"` followed by their food.
+Create a variable called `food`, ask the user what their favorite food is, and then print a sentence that says: `"I like to eat"` followed by their answer.
 
 * [Chapter 5 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-5/chapter-5.ipynb)
 
