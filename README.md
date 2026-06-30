@@ -10,14 +10,10 @@ At its core, programming is simply communicating with a computer. Python is one 
 
 Good luck and have fun!
 
----
-
 # Setup
 An **IDE** (Integrated Development Environment) is recommended for this course. This will be your digital workbench.
 
 * Install [PyCharm](https://www.jetbrains.com/pycharm/)
-
----
 
 # Course Roadmap
 
