@@ -6,9 +6,7 @@ At its core, programming is simply communicating with a computer. Python is one 
 
 * **Why Python?** Web apps, data analysis, AI, automation, and prototypes all run on Python. It is the foundation of many programs.
 
-* **Skills You Will Gain:** You will learn how to think logically, break down complex problems, and write clean, functional code from scratch.
-
-Good luck and have fun!
+* **Skills You Will Gain:** You will learn how to think logically, break down complex problems, and write clean, functional python code from scratch.
 
 # Setup
 An **IDE** (Integrated Development Environment) is recommended for this course. This will be your digital workbench.
@@ -27,4 +25,3 @@ An **IDE** (Integrated Development Environment) is recommended for this course. 
 
 ### Unit 2: Math & Data Conversion
 
-*
