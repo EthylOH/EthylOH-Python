@@ -8,7 +8,7 @@ If you run this code:
 
 `print("5" + "5")`
 
-Instead of printing `10` like expeected, it prints `55`. Because of the quotation marks around the numbers. The computer believes they are strings, so it just glues the characters together. 
+Instead of printing `10` like expected, it prints `55`, because of the quotation marks around the numbers. The computer believes they are strings, so it just glues the characters together. 
 
 ### 2. The Tool
 
