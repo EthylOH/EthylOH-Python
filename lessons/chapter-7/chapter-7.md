@@ -4,7 +4,7 @@ You know how to use `+` to add numbers. But Python can do much more than just ad
 
 ### 1. The Problem
 
-You need to calculate a 15% tip on a $114.15 meal, doing that math manually in your head defeats the whole purpose of programming! The computer should be doing the heavy lifting for you.
+You need to calculate a 15% tip on a $114.15 meal. Doing that math manually in your head defeats the whole purpose of programming! The computer should be doing the heavy lifting for you.
 
 ### 2. The Tool
 
@@ -18,4 +18,4 @@ Python has built-in math operators that work exactly like a standard calculator.
 
 ### 3. The Task
 
-Build a calculator using `input` and mathmatical operators.
+Build a calculator using `input` and mathematical operators.
