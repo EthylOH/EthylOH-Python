@@ -1,6 +1,6 @@
-# Chapter 1: The Silent Box
+# Chapter 1: The Terminal
 
-Hey, this is the start of your programming journey. At the moment, your computer has great processing power, but it has a major problem: **it is a silent brick.** 
+This is the start of your programming journey. At the moment, your computer has great processing power, but it has a major problem: **it is a silent brick.** 
 
 ### 1. Make the Computer Speak
 
