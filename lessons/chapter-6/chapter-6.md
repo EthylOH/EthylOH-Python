@@ -23,6 +23,6 @@ Without the quotes, the computer knows these are integers. It will do the math a
 
 ### 3. The Task
 
-Use `input()` to ask the user for a number. Convert their answer into an integer using `int()`, and then print out what their number multiplied by 100 would be.
+Use `input()` to ask the user for their current age. Convert their answer into an integer, add `10` to it, and print out a message telling them how old they will be in a decade!
 
 * [Chapter 6 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-6/chapter-6.ipynb)
