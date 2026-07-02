@@ -13,30 +13,28 @@ Your computer will try to read your note as a programming command. It will get c
 
 ### 2. The Tool
 
-To leave a note for yourself that the computer will completely skip over, we use the hashtag symbol (`#`). This is called a **comment**. Anything on the line after the `#` is invisible to the computer.
+To leave a note for yourself that the computer will completely skip over, we use the hashtag symbol (`#`). This is called a **Comment**. Anything on the line after the `#` is invisible to the computer.
 
 **Example:**
-`# This is a comment. The computer will completely ignore this.`
+`# This is a Comment. The computer will completely ignore this.`
 `print("Hello, World!")`
 
-Sometimes you have a lot to say and don't want to put a `#` at the start of every single line. You can use triple quotes (`"""` or `'''`) to create multi-line text blocks. 
+Sometimes you have a lot to say and do not want to put a `#` at the start of every single line. You can use Triple Quotes (`"""` or `'''`) to create multi-line text blocks. 
 
 **Example:**
-```
-"""
-This looks like a multi-line comment.
-I can write as many lines as I want here.
-Python will just ignore this block.
-"""
-print("hello world")
-```
 
+""" This looks like a multi-line Comment. I can write as many lines as I want here. Python will just ignore this block. """ print("Hello, World!")
 ### 3. The Task
 
-Use the `#` symbol to "comment out" the comments so the computer ignores them and only runs the actual Python code.
+Use the `#` symbol to "comment out" the Comments so the computer ignores them and only runs the actual Python code.
 
-* [Chapter 2 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-2/chapter-2.ipynb?v=3)
+* [Chapter 2 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-2/chapter-2.ipynb)
 
 ### 4. Challenge
 
-Combine what you know. Write `print()` statements to draw ASCII art. Above some lines of code, write a `# comment` explaining exactly what that specific line is drawing.
+Combine what you know. Write `print()` statements to draw ASCII art. Above some lines of code, write a `# Comment` explaining exactly what that specific line is drawing.
+
+### 5. Solution
+
+* [Chapter 2 Solution](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-2/chapter-2-solution.ipynb)
+* 
