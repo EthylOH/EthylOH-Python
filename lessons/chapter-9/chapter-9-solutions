@@ -1,0 +1,59 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Solution for Task: Pizza Price Calculator"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "quantity = int(input(\"How many pizzas? \"))\n",
+    "price = float(input(\"Price per pizza? \"))\n",
+    "total = quantity * price\n",
+    "print(f\"Your total is: ${total}\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### Solution for Challenge: Tip Calculator"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "bill = float(input(\"What is the total amount of the bill? \"))\n",
+    "tip_percent = float(input(\"What percentage would you like to tip? \"))\n",
+    "\n",
+    "# Calculate the tip\n",
+    "tip_amount = bill * (tip_percent / 100)\n",
+    "total_bill = bill + tip_amount\n",
+    "\n",
+    "print(f\"The total, including tip, is: ${total_bill:.2f}\")"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "name": "python",
+   "version": "3.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
