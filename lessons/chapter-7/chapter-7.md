@@ -24,7 +24,7 @@ Build a tip calculator. Use `input()` to ask the user for the price of their mea
 
 ### 4. Challenge
 
-Ask the user for two different numbers. Convert them to Integers or Floats. Then, print the result of adding, subtracting, multiplying, and dividing those two numbers all in the same program.
+Ask the user for two different numbers. Convert them to Integers or Floats. Then, print the result of adding, subtracting, multiplying, and dividing those two numbers.
 
 ### 5. Solution
 
