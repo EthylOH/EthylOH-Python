@@ -19,7 +19,7 @@ To make the computer do math, you must remove the quotation marks. This changes 
 
 Without the quotes, the computer knows these are Integers. It will do the math and print `10`.
 
-*(Note: The `input()` function always captures Strings. If you want the user to type a number for math, you must convert their answer. Wrap it in `int()` for whole numbers, or `float()` for decimals. Example: `age = int(input("How old are you? "))` or `price = float(input("How much does it cost? "))`)*
+The `input()` function always captures Strings. If you want the user to type a number for math, you must convert their answer. Wrap it in `int()` for whole numbers, or `float()` for decimals. Example: `age = int(input("How old are you? "))` or `price = float(input("How much does it cost? "))`
 
 ### 3. The Task
 
