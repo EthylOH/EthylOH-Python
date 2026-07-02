@@ -23,6 +23,12 @@ The output would be: `3.33`
 
 Divide 22 by 7. Round the result to exactly 4 decimal places and print it.
 
+* [Chapter 8 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-8/chapter-8.ipynb)
+
 ### 4. Challenge
 
-Build a calculator that rounds the answer to a user-specified number of decimal places.
+Build a custom division calculator. Ask the user for a number, and then ask for a second number to divide it by. Finally, ask the user how many decimal places they want to round the answer to. Calculate the math, round it to their exact specifications, and print the result.
+
+### 5. Solution
+
+* [Chapter 8 Solution](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-8/chapter-8-solution.ipynb)
