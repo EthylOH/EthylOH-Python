@@ -1,34 +1,38 @@
 # Chapter 5: Connecting Words
 
-You now know how to save information in a variable. But what if you want to combine that variable with other text?
+You now know how to save information in a Variable. But what if you want to combine that Variable with other text?
 
 ### 1. The Problem
 
-If you try to print words and a variable together like this:
+If you try to print words and a Variable together like this:
 
 `name = "Ethyl-OH"`
 `print("Hello name")`
 
-The computer will print `"Hello name"` instead of `"Hello Ethyl-OH"`. It printed the exact letters you typed inside the quotes instead of a mix between the given string and the variable. We need a way to mix regular text and variables together.
+The computer will print `"Hello name"` instead of `"Hello Ethyl-OH"`. It printed the exact letters you typed inside the quotes instead of a mix between the given String and the Variable. We need a way to mix regular text and Variables together.
 
 ### 2. The Tool
 
-To attach a string (text) and a variable together, we use the plus sign (`+`). In programming, this is called **String Concatenation**. 
+To attach a String (text) and a Variable together, we use the plus sign (`+`). In programming, this is called **String Concatenation**. 
 
-You just close your quotation marks, put a `+`, and then put your variable name.
+You just close your quotation marks, put a `+`, and then put your Variable name.
 
 **Example:**
 `name = "Ethanol"`
 `print("Hello " + name)`
 
-*(Notice the space after `"Hello "`? The computer will glue the strings exactly as they are. If you don't add a space inside your quotes, the words will be attached together like `"HelloEthanol"`.)*
+*(Notice the space after `"Hello "`? The computer will glue the Strings exactly as they are. If you do not add a space inside your quotes, the words will be attached together like `"HelloEthanol"`.)*
 
 ### 3. The Task
 
-Create a variable called `food`, ask the user what their favorite food is, and then print a sentence that says: `"I like to eat"` followed by their answer.
+Create a Variable called `food`, ask the user what their favorite food is, and then print a sentence that says: `"I like to eat "` followed by their answer.
 
 * [Chapter 5 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-5/chapter-5.ipynb)
 
 ### 4. Challenge
 
-Ask the user for three different words (for example: a color, an animal, and a place). Then, use string concatenation (`+`) to turn them into one big sentence. 
+Ask the user for three different words (for example: a color, an animal, and a place). Then, use String Concatenation (`+`) to turn them into one big sentence.
+
+### 5. Solution
+
+* [Chapter 5 Solution](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-5/chapter-5-solution.ipynb)
