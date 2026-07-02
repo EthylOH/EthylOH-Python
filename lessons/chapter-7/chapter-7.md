@@ -18,4 +18,14 @@ Python has built-in math operators that work exactly like a standard calculator.
 
 ### 3. The Task
 
-Build a calculator using `input` and mathematical operators.
+Build a tip calculator. Use `input()` to ask the user for the price of their meal, calculate a 15% tip, and print the result.
+
+* [Chapter 7 Task](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-7/chapter-7.ipynb)
+
+### 4. Challenge
+
+Ask the user for two different numbers. Convert them to Integers or Floats. Then, print the result of adding, subtracting, multiplying, and dividing those two numbers all in the same program.
+
+### 5. Solution
+
+* [Chapter 7 Solution](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-7/chapter-7-solution.ipynb)
