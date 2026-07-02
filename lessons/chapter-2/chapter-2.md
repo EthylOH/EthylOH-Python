@@ -37,4 +37,3 @@ Combine what you know. Write `print()` statements to draw ASCII art. Above some 
 ### 5. Solution
 
 * [Chapter 2 Solution](https://colab.research.google.com/github/EthylOH/EthylOH-Python/blob/main/lessons/chapter-2/chapter-2-solution.ipynb)
-* 
