@@ -25,3 +25,14 @@ An **IDE** (Integrated Development Environment) is recommended for this course. 
 
 ### Unit 2: Math & Data Conversion
 
+* [Chapter 6: Data Types](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-6/chapter-6.md)
+* [Chapter 7: Math Operators](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-7/chapter-7.md)
+* [Chapter 8: Floats & Rounding](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-8/chapter-8.md)
+* [Chapter 9: Type Casting](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-9/chapter-9.md)
+
+### Unit 3: Basic Visual Output
+
+
+
+
+
