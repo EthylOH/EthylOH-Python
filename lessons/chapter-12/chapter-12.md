@@ -17,7 +17,7 @@ To fill a shape with color, you need to tell the Turtle when to start and stop p
 * `color("red", "yellow")` — Set both the pen color and fill color at once (the arguments are: `color("pencolor", "fill color")`.
 
 **Example (filled square):**
-```
+```python
 fillcolor("blue")
 begin_fill()
 forward(100)
