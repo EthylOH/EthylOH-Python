@@ -17,17 +17,19 @@ To fill a shape with color, you need to tell the Turtle when to start and stop p
 * `color("red", "yellow")` — Set both the pen color and fill color at once (the arguments are: `color("pencolor", "fill color")`.
 
 **Example (filled square):**
-`fillcolor("blue")`
-`begin_fill()`
-`forward(100)`
-`right(90)`
-`forward(100)`
-`right(90)`
-`forward(100)`
-`right(90)`
-`forward(100)`
-`right(90)`
-`end_fill()`
+```
+fillcolor("blue")
+begin_fill()
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
+forward(100)
+right(90)
+end_fill()
+```
 
 The order matters. You must call `begin_fill()` before you start drawing, and `end_fill()` after you finish the shape.
 
