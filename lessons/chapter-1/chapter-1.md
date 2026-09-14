@@ -15,7 +15,7 @@ If you just type that out, your computer will stare blankly back at you. Why? Be
 To make the computer display text on the screen, we use the `print` command, followed by whatever you would like your computer to say, wrapped in parentheses and quotation marks (`""`).
 
 **Example:**
-`print("Hello, World!")`
+`print("Hello, World! ")`
 
 ### 3. The Task
 
