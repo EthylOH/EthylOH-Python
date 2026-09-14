@@ -12,9 +12,9 @@ The Turtle canvas is a Coordinate Grid. The center of the screen is position `(0
 
 You can teleport the Turtle to any position on this grid:
 
-* `goto(100, 50)` — Move the Turtle to the point X=100, Y=50. If the pen is down, it will draw a line from where it was to the new position.
-* `setpos(100, 50)` — Same as `goto()`.
-* `home()` — Move the Turtle back to the center `(0, 0)` and reset its direction to face right.
+* `goto(100, 50)` Moves the Turtle to the point X=100, Y=50. If the pen is down, it will draw a line from where it was to the new position.
+* `setpos(100, 50)` Is the same as `goto()`.
+* `home()` Moves the Turtle back to the center `(0, 0)` and reset its direction to face right.
 
 **Example (drawing a line from the center to a specific point):**
 `goto(150, 100)`
