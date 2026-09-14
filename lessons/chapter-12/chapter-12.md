@@ -10,11 +10,11 @@ When you draw a square, you only get the outline. If you want to fill it with co
 
 To fill a shape with color, you need to tell the Turtle when to start and stop paying attention to the shape it is drawing, and what color to fill it with.
 
-* `fillcolor("blue")` — Set the fill color.
-* `begin_fill()` — Start tracking the shape to fill.
-* `end_fill()` — Stop tracking and fill the shape with color.
-* `bgcolor("black")` — Change the background color of the entire canvas.
-* `color("red", "yellow")` — Set both the pen color and fill color at once (the arguments are: `color("pencolor", "fill color")`.
+* `fillcolor("blue")` Sets the fill color.
+* `begin_fill()` Starts tracking the shape to fill.
+* `end_fill()` Stops tracking and fill the shape with color.
+* `bgcolor("black")` Changes the background color of the entire canvas.
+* `color("red", "yellow")` Sets both the pen color and fill color at once (the arguments are: `color("pencolor", "fill color")`.
 
 **Example (filled square):**
 ```python
