@@ -12,10 +12,10 @@ To lift the pen off the paper, use `penup()`. To put it back down, use `pendown(
 
 You can also control the pen's appearance:
 
-* `penup()` — Lift the pen. Movement will not draw a line.
-* `pendown()` — Put the pen back down. Movement will draw again.
-* `pensize(5)` — Change the thickness of the line to 5 pixels.
-* `pencolor("red")` — Change the color of the line to red.
+* `penup()` Lifts the pen. Movement will not draw a line.
+* `pendown()` Puts the pen back down. Movement will draw again.
+* `pensize(5)` Changes the thickness of the line to 5 pixels.
+* `pencolor("red")` Changes the color of the line to red.
 
 **Example (moving without drawing):**
 `penup()`
