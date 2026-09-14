@@ -14,10 +14,10 @@ Python has a built-in drawing library called **Turtle**. It works like a pen on 
 
 The four basic movement commands are:
 
-* `forward(100)` — Move the Turtle forward by 100 pixels, drawing a line.
-* `backward(100)` — Move the Turtle backward by 100 pixels.
-* `right(90)` — Turn the Turtle 90 degrees to the right. This does not move it, it only changes the direction it is facing.
-* `left(90)` — Turn the Turtle 90 degrees to the left.
+* `forward(100)` Moves the Turtle forward by 100 pixels, drawing a line.
+* `backward(100)` Moves the Turtle backward by 100 pixels.
+* `right(90)` Turns the Turtle 90 degrees to the right. This does not move it, it only changes the direction it is facing.
+* `left(90)` Turns the Turtle 90 degrees to the left.
 
 **Setup (run this first in every Turtle notebook):**
 `!pip install -q ColabTurtlePlus`
