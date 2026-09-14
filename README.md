@@ -32,7 +32,10 @@ An **IDE** (Integrated Development Environment) is recommended for this course. 
 
 ### Unit 3: Basic Visual Output
 
-
-
-
-
+* [Chapter 10: The Blank Canvas](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-10/chapter-10.md)
+* [Chapter 11: Digital Ink](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-11/chapter-11.md)
+* [Chapter 12: Painting In](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-12/chapter-12.md)
+* [Chapter 13: Circles and Dots](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-13/chapter-13.md)
+* [Chapter 14: The Grid](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-14/chapter-14.md)
+* [Chapter 15: Custom Shapes](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-15/chapter-15.md)
+* [Chapter 16: Text and Finishing Touches](https://github.com/EthylOH/EthylOH-Python/blob/main/lessons/chapter-16/chapter-16.md)
