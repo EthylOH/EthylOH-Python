@@ -23,7 +23,8 @@ Sometimes you have a lot to say and do not want to put a `#` at the start of eve
 
 **Example:**
 
-""" This looks like a multi-line Comment. I can write as many lines as I want here. Python will just ignore this block. """ print("Hello, World!")
+```""" This looks like a multi-line Comment. I can write as many lines as I want here. Python will just ignore this block. """ print("Hello, World!")```
+
 ### 3. The Task
 
 Use the `#` symbol to "comment out" the Comments so the computer ignores them and only runs the actual Python code.
