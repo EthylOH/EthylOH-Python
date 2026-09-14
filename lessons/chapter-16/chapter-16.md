@@ -17,7 +17,7 @@ Turtle has a `write()` Function that places text directly on the canvas at the T
 * `shape("turtle")` Changes the Turtle's arrow icon to an actual turtle shape. Other options include "circle", "square", "triangle", and "arrow".
 
 **Example:**
-```
+```python
 hideturtle()
 write("This text is on the canvas")
 ```
