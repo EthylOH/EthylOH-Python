@@ -20,9 +20,11 @@ The four basic movement commands are:
 * `left(90)` Turns the Turtle 90 degrees to the left.
 
 **Setup (run this first in every Turtle notebook):**
-`!pip install -q ColabTurtlePlus`
-`from ColabTurtlePlus.Turtle import *`
-`clearscreen()`
+```python
+!pip install -q ColabTurtlePlus
+from ColabTurtlePlus.Turtle import *
+clearscreen()
+```
 
 **Example (drawing a straight line):**
 `forward(100)`
