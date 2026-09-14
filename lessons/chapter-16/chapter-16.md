@@ -10,11 +10,11 @@ You might want to label parts of a diagram or write your name on your artwork. `
 
 Turtle has a `write()` Function that places text directly on the canvas at the Turtle's current position. It also has commands to control the Turtle's speed and visibility.
 
-* `write("Hello")` — Write the text "Hello" on the canvas at the current position.
-* `hideturtle()` — Hide the Turtle arrow so it does not appear in your drawing.
-* `showturtle()` — Show the Turtle arrow again.
-* `speed(0)` — Set the drawing speed. `0` is the fastest (instant). `1` is the slowest. `6` is the default.
-* `shape("turtle")` — Change the Turtle's arrow icon to an actual turtle shape. Other options include "circle", "square", "triangle", and "arrow".
+* `write("Hello")` Writes the text "Hello" on the canvas at the current position.
+* `hideturtle()` Hides the Turtle arrow so it does not appear in your drawing.
+* `showturtle()` Shows the Turtle arrow again.
+* `speed(0)` Sets the drawing speed. `0` is the fastest (instant). `1` is the slowest. `6` is the default.
+* `shape("turtle")` Changes the Turtle's arrow icon to an actual turtle shape. Other options include "circle", "square", "triangle", and "arrow".
 
 **Example:**
 ```
