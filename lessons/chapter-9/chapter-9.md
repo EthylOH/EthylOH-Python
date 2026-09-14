@@ -8,7 +8,7 @@ The `input()` function *always* captures the user's answer as a String, even if 
 
 If you ask for their birth year and try to do math with it:
 
-    birth_year = input("What year were you born?")
+    birth_year = input("What year were you born? ")
     age = 2026 - birth_year
 
 The computer crashes. It thinks you are trying to subtract a word (the String "2005") from a number (the Integer 2026). 
