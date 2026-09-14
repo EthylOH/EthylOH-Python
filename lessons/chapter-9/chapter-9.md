@@ -21,11 +21,12 @@ To fix this, you have to manually translate the text into a real number. This is
 * Use `float()` to translate text into a decimal.
 
 **Example:**
-
-    birth_year_text = input("What year were you born? ")
-    birth_year_num = int(birth_year_text)
-    age = 2026 - birth_year_num
-    print(age)
+```python
+birth_year_text = input("What year were you born? ")
+birth_year_num = int(birth_year_text)
+age = 2026 - birth_year_num
+print(age)
+```
 
 *(Pro Tip: You can do this all on one line by wrapping the input function itself: `year = int(input("Year? "))`)*
 
