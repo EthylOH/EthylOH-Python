@@ -11,16 +11,16 @@ If you want to draw a square with sides of 200 instead of 100, you have to go th
 Use a Variable to store the size. Then pass that Variable into your `forward()` commands. If you want to let the user decide the size, combine it with `int(input())` from the earlier chapters.
 
 **Example:**
-```
-`size = int(input("size?"))`
-`forward(size)`
-`right(90)`
-`forward(size)`
-`right(90)`
-`forward(size)`
-`right(90)`
-`forward(size)`
-`right(90)`
+```python
+size = int(input("size?"))
+forward(size)
+right(90)
+forward(size)
+right(90)
+forward(size)
+right(90)
+forward(size)
+right(90)
 ```
 
 Now the user controls the size of the square.
